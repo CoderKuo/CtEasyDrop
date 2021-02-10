@@ -1,0 +1,6 @@
+name: CtEasyDrop
+version: 0.0.1
+main: ct.craft.cteasydrop.CtEasyDrop
+commands:
+  ced:
+    description: CtEasyDrop Main Command

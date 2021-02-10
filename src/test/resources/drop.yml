@@ -1,0 +1,6 @@
+pigdrop:
+  entity: pig
+  world: world
+  dropData: pigDropData
+  money: 10
+  exp: 10
